@@ -4,7 +4,7 @@ Applied supervised learning techniques and an analytical mind on data collected 
 # Project Highlights:
 This project was designed to get acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
-# Things I learnt by completing this project:
+# Things I Learnt by Completing this Project:
 - How to identify when preprocessing is needed, and how to apply it.
 - How to establish a benchmark for a solution to the problem.
 - What each of several supervised learning algorithms accomplishes given a specific dataset.
